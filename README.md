@@ -19,6 +19,8 @@
 
 <h3><b>Atividades executadas </b></h3>
 
+<img src=https://www.superti360.com.br/wp-content/uploads/2022/02/0-destaque-linguagens-de-programacao-2019.jpgwidth="144" height="180">
+
 <ol><p><li>Programação em HTML
 <li>Progrmação em Java Script
 <li>Programação em CSS
