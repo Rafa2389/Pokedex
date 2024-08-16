@@ -33,11 +33,10 @@
 <li>Importar projeto Pokedex do Github para Versel
 <li>Hospedagem do projeto Pokedex na rede Web
 <li>Edição do nome do domínio, conforme desejar
-<li>Utilização e compartilhamento do domínio Web - Pokedex
-
+<li>Utilização e compartilhamento do domínio Web - Pokedex</li>
+  <p> 
+    <p> 
   
-</li>
-  
-</li>
+<i><p>Este projeto é licenciado conforme GPL-3.0.</p><i>
 
   
