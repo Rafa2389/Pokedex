@@ -17,7 +17,7 @@
 <https://rafaelprojetodahora.vercel.app/>
 
 
-<h3><b>Atividades executadas <img src=https://www.superti360.com.br/wp-content/uploads/2022/02/0-destaque-linguagens-de-programacao-2019.jpg width="50" height="40"></b> </h3>
+<h3><b>Atividades executadas <img src=https://www.superti360.com.br/wp-content/uploads/2022/02/0-destaque-linguagens-de-programacao-2019.jpg width="50" height="40"> </b></h3>
 
 <ol><p><li>Programação em HTML
 <li>Progrmação em Java Script
