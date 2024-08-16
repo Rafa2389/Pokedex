@@ -11,8 +11,11 @@
  
  <p> Foi desenvolvido um site interativo, cuja finalidade é exibir as características fisícas de determinado Pokemon, isto através de um número atrelado ao personagem</p>
 
-<https://rafaelprojetodahora.vercel.app/images/pokedex.png>
- <https://rafaelprojetodahora.vercel.app/>
+<img src="https://rafaelprojetodahora.vercel.app/images/pokedex.png" width="144" height="144">
+
+
+<https://rafaelprojetodahora.vercel.app/>
+
 
 <h3><b>Atividades executadas </b></h3>
 
