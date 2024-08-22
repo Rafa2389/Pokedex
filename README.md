@@ -44,8 +44,7 @@
     <p> 
 
 
-
-    ## 
+## 
   
 <i><p>Este projeto é licenciado conforme GPL-3.0.</p><i>
 
